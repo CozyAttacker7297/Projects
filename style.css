@@ -1,0 +1,107 @@
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+
+
+
+
+logininfo:hover {
+    background-color: yellow;
+}
+
+.wallpapers {
+    background-color: rgb(255, 255, 255);
+    border-width: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+#customer {
+    background-color: #2e4053;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: -4%;
+    padding-bottom: -5%;
+    color: white;
+
+}
+
+.profilepic {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+
+.column {
+    flex: 100%;
+    max-width: 3000%;
+    padding: 0 3px;
+    width: 100%;
+
+}
+
+.header {
+    background-color: #2e4053;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding-left: 5%;
+    padding: 2%;
+    margin-bottom: 3%;
+}
+
+.profilepictures {
+    background-color: rgb(255, 255, 255);
+    padding: 2%;
+
+}
+
+
+#profile1 {
+
+    padding: 2%;
+
+}
+
+#profile2 {
+    padding: 3%;
+}
+
+#profile3 {
+    align-items: center;
+    padding: 3%;
+
+
+
+}
+
+#profile4 {
+    padding: 3%;
+
+}
+
+#profile5 {
+    padding: 1.5%;
+}
+
+#frontview {
+    font-size: 32px;
+}
